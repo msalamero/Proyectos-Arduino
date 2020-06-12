@@ -1,8 +1,8 @@
 # Ardu-Piano 
-
+## By Juan Manuel  Aragón y Francisco Lautaro Robledo
 
 [![prezzi](prezzi.png)](https://prezi.com/-f0wmi0tng6s/piano-arduino/)
-
+[![Powtoon](powtoon.png)](https://www.powtoon.com/online-presentation/bSI02e1JUb6/piano-arduino/?mode=movie)
 
 
 

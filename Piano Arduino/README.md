@@ -19,7 +19,7 @@ En vez de preguntarnos cómo hacer el circuito, debemos preguntarnos cómo reali
 
 ### Diagrama del circuito
 
-![Piano_circuito](Piano_circuito)
+![Piano_circuito](Piano_circuito.png)
 
 ### Componentes necesarios
 
@@ -29,19 +29,21 @@ En vez de preguntarnos cómo hacer el circuito, debemos preguntarnos cómo reali
 - Tablero de circuitos
 - Una fuente de energía; ya sea inalámbrica o conectada a otra fuente.
 
-C. Descripción del circuito
-		El diseño del circuito no representa ninguna dificultad ni complejidad alguna.
+### Descripción del circuito
+
+El diseño del circuito no representa ninguna dificultad ni complejidad alguna.
 La base del mismo sería conectar del Buzzer de 5v la terminal positiva al pin 10 de la placa Arduino. Es necesario conectar el Buzzer a uno de los pines de la placa que permita el soporte de PWM. La otra parte del Buzzer va conectada al GND.
-		Más adelantes, es necesario conectar 7 botones push a través de los pines 3 al 9 de la placa. Cada uno de estos botones poseerá uno de los sonidos predeterminados desarrollados en el código.
-		Por último, conectamos el botón número 8, el cual funcionará como repetidor de los sonidos ya seleccionados anteriormente. 
+Más adelantes, es necesario conectar 7 botones push a través de los pines 3 al 9 de la placa. Cada uno de estos botones poseerá uno de los sonidos predeterminados desarrollados en el código.
+Por último, conectamos el botón número 8, el cual funcionará como repetidor de los sonidos ya seleccionados anteriormente. 
 
 
-4.Funcionamiento
-		Luego de realizar todas las conexiones de la manera desarrollada en los puntos anteriores, es necesario saber cómo funciona este producto.
-		Cada uno de los siete botones principales representa uno de los sonidos predeterminados, cada uno representando una nota en la escala musical. No es necesario presionar estos botones en alguna secuencia en particular, la intención de este proyecto es poder realizar combinaciones varias entre ellas para obtener nuevos resultados cada vez que finalizamos. El octavo botón tiene como funcionamiento el poder reproducir todos los sonidos previamente combinados, teniendo en cuenta el tiempo de espera entre botón y botón,así como el orden de los mismos.
-		Luego de presionar el octavo botón existen dos posibilidades, una sería el volver a reproducir el sonido realizado, o la segunda volver a presionar una combinación de los siete botones principales. 
+## Funcionamiento
+
+Luego de realizar todas las conexiones de la manera desarrollada en los puntos anteriores, es necesario saber cómo funciona este producto.
+Cada uno de los siete botones principales representa uno de los sonidos predeterminados, cada uno representando una nota en la escala musical. No es necesario presionar estos botones en alguna secuencia en particular, la intención de este proyecto es poder realizar combinaciones varias entre ellas para obtener nuevos resultados cada vez que finalizamos. El octavo botón tiene como funcionamiento el poder reproducir todos los sonidos previamente combinados, teniendo en cuenta el tiempo de espera entre botón y botón,así como el orden de los mismos.
+Luego de presionar el octavo botón existen dos posibilidades, una sería el volver a reproducir el sonido realizado, o la segunda volver a presionar una combinación de los siete botones principales. 
 
 
-5.Conclusión
+## Conclusión
 
-		Al finalizar este emprendimiento que realizamos durante todo un año, llegamos a la conclusión que mediante esfuerzo y dedicación es posible llegar a obtener resultados óptimos que permiten expandir los horizontes de cualquier ámbito. Más allá del área en la que uno desee especializarse, está claro que la tecnología abre nuevos caminos y ayuda a disminuir costos sin que la calidad disminuya. 
+Al finalizar este emprendimiento que realizamos durante todo un año, llegamos a la conclusión que mediante esfuerzo y dedicación es posible llegar a obtener resultados óptimos que permiten expandir los horizontes de cualquier ámbito. Más allá del área en la que uno desee especializarse, está claro que la tecnología abre nuevos caminos y ayuda a disminuir costos sin que la calidad disminuya. 

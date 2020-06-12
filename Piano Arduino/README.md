@@ -19,6 +19,8 @@ En vez de preguntarnos cómo hacer el circuito, debemos preguntarnos cómo reali
 
 ### Diagrama del circuito
 
+![Piano_circuito](Piano_circuito)
+
 ### Componentes necesarios
 
 - Arduino UNO

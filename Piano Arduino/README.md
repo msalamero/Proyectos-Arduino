@@ -1,6 +1,12 @@
 # Ardu-Piano 
 
 
+[prezzi](https://prezi.com/-f0wmi0tng6s/piano-arduino/)
+[![prezzi](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+
+
 ## Introducción
 
 

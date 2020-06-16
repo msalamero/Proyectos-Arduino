@@ -26,3 +26,31 @@ Intermediario MQTT:  el intermediario recibe todos los mensajes, filtra los me
 El código completo para  conectar ESP32 con el agente MQTT se proporciona al final . Aquí, estamos usando  Arduino IDE para programar ESP32 . Primero,  instalamos la biblioteca WiFi.h y la biblioteca PubSubClient.h .
 
 La biblioteca PubSubClient nos permite publicar / suscribir mensajes en tópicos.
+
+![1](files/1.png)
+
+Ahora declaramos algunas variables globales para nuestras conexiones WiFi y MQTT.
+![2](files/2.png)
+
+La función setup_wifi  verificará el WiFi, ya sea que esté conectado a la red o no, también proporcionará la dirección IP e imprimirá en el monitor serie.
+![3](files/3.png)
+
+A continuación, mientras funciona en bucle, se conectará al servidor MQTT y lo imprimirá en el monitor en serie. Este proceso se ejecutará en un bucle hasta que se conecte.
+
+![4](files/4.png)
+
+Ahora especificaremos una función de devolución de llamada y en esta función, primero imprimiremos el nombre del tema y luego recibiremos el mensaje.
+
+![5](files/5.png)
+
+Conectando con la red WiFi y servidor MQTT:
+
+![6](files/6.png)
+
+### Sensores de gas MQ
+
+
+![7](files/7.jpg)
+
+Los sensores de gas de la serie MQ son sensores analógicos por lo que son fáciles de implementar con cualquier microcontrolador.
+

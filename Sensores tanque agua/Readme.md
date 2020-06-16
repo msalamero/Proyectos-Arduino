@@ -16,10 +16,13 @@ el profesor y la programación de los sensores.
 
 ## La placa de desarrollo
 
-CU ESP-32S de Zerynth la cual es programable mediante la interfase de
+Para la conexión, a través de la internet, al servidor se ha utilizado una placa
+Node MCU ESP-32S de Zerynth la cual es programable mediante la interfase de
 programación de la placa Arduino con el mismo lenguaje de programación.
 La placa utilizada contiene integrado un módulo de WiFi el cual permite
 programar directamente el enlace al servidor sin la necesidad de configurar pines para
 un módulo externo.
 A continuación, se muestra la configuración de los pines de la placa
 NodeMCU ESP-32S.
+
+![01](images\01.jpg)

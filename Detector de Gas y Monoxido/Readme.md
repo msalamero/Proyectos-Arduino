@@ -131,7 +131,7 @@ Para calcular Ro utilizamos la siguiente lógica y el consecuente programa de me
          delay(1000);
         }
 
-Finalmente el código para publicar en el Broker y realizar las mediciones y adecuaciones de concentración (ppm), Se encuentra en el archivo sensores_MQ.ino
+Finalmente el código para publicar en el Broker y realizar las mediciones y adecuaciones de concentración (ppm), Se encuentra en el archivo sensores_MQ.ino [Enlace](https://github.com/msalamero/Proyectos-Arduino/blob/master/Detector%20de%20Gas%20y%20Monoxido/sensores_MQ.ino)
 
 ### Conclusión
 

@@ -132,3 +132,11 @@ Para calcular Ro utilizamos la siguiente lógica y el consecuente programa de me
         }
 
 Finalmente el código para publicar en el Broker y realizar las mediciones y adecuaciones de concentración (ppm), Se encuentra en el archivo sensores_MQ.ino
+
+### Conclusión
+
+En este proyecto se propuso realizar un sistema que cense monóxido de carbono y gas natural y que sea capaz de notificar por internet a través de una conexión wifi a una aplicación móvil o Servidor. Pudimos obtener: 
+• Un equipo confiable, robusto que se puede adaptar a cualquier tipo de instalación, ya sea independiente o en conjunto con otros sistemas. 
+• Un medio escalable que otorga funcionalidad comunicando datos vía internet y/o ejecutar una tarea autónoma como el aviso sonoro o escalarlo y conectarlos a distintos tópicos o sensores de dispositivos externos o propios. 
+
+![13](files/13.png)

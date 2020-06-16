@@ -139,4 +139,4 @@ En este proyecto se propuso realizar un sistema que cense monóxido de carbono y
 • Un equipo confiable, robusto que se puede adaptar a cualquier tipo de instalación, ya sea independiente o en conjunto con otros sistemas. 
 • Un medio escalable que otorga funcionalidad comunicando datos vía internet y/o ejecutar una tarea autónoma como el aviso sonoro o escalarlo y conectarlos a distintos tópicos o sensores de dispositivos externos o propios. 
 
-![13](files/13.png)
+![14](files/14.png)

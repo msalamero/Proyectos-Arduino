@@ -31,11 +31,11 @@ EspMQTTClient client(
   "UBP",
   "pascal25",
   //"soldier.cloudmqtt.com",  // MQTT Broker server ip
-  "iot.edurobots.com.ar",  // MQTT Broker server ip
+  "xxxxxxxx",  // MQTT Broker server ip
   //"MODULOX",   // Can be omitted if not needed
   "web_client",   // Can be omitted if not needed
   //"admin",   // Can be omitted if not needed
-  "1234",   // Can be omitted if not needed
+  "xxxxxx",   // Can be omitted if not needed
   "MODULOX",      // Client name that uniquely identify your device
   //18629              // The MQTT port, default to 1883. this line can be omitted
   1883              // The MQTT port, default to 1883. this line can be omitted

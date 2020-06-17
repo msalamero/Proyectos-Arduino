@@ -25,4 +25,5 @@ un módulo externo.
 A continuación, se muestra la configuración de los pines de la placa
 NodeMCU ESP-32S.
 
-![1](images\1.png)
+![1](images/1.png)
+

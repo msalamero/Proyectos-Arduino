@@ -38,11 +38,11 @@ DHT11 dht11_ext(tanque_text);
 
 
 EspMQTTClient client(
-  "UBP",                     // Red WiFi
-  "pascal25",         
-  "iot.edurobots.com.ar",    // IP del broker MQTT
+  "xxxx",                     // Red WiFi
+  "xxxxx",         
+  "xxxxxxx",    // IP del broker MQTT
   "web_client",              
-  "1234",                    // Contraseña
+  "xxxx",                    // Contraseña
   "tanque",                  // Nombre del cliente
   1883                       // Puerto MQTT
 );

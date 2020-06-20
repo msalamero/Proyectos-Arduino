@@ -1,5 +1,5 @@
 # Cubo Led
-##By Godoy Matías y Marquez Federico
+## By Godoy Matías y Marquez Federico
 ### Universidad Blas Pascal - Ing. Informática - Lab 1 - 2019
 ------------------------------------------------------------------------------------------
 ![01](images/1.png)

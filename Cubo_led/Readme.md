@@ -55,4 +55,4 @@ Por último, queremos agradecemos a nuestros profesores de catedra por acompaña
 - Ing. Salamero Alejandro Martin
 - Profesora Nano Mónica Liliana
 
-![02](images/2.png)
+![02](images/02.png)

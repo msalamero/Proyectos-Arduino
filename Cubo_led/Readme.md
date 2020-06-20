@@ -4,6 +4,7 @@
 ------------------------------------------------------------------------------------------
 ![01](images/01.png)
 
+[![video](images/03.png)](https://www.youtube.com/watch?v=bp_qJ6kgRnc&feature=youtu.be)
 ## Introducción
 En este informe se va a mencionar el trabajo realizado de un proyecto sobre Arduino para la materia Laboratorio I, en la universidad Blas Pascal. El proyecto consiste en un Cubo Led 5x5x5, el cual su función es hacer luces mediante los leds formando figuras en el cubo.
 Los proyectos desarrollados en los secundarios o universidades ayudan mucho al estudiante para profundizar los conceptos aprendidos durante el año, ya que es cuando se dan cuenta para que sirven dichos conceptos.

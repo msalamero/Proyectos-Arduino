@@ -2,7 +2,7 @@
 ## By Godoy Matías y Marquez Federico
 ### Universidad Blas Pascal - Ing. Informática - Lab 1 - 2019
 ------------------------------------------------------------------------------------------
-![01](images/1.png)
+![01](images/01.png)
 
 ## Introducción
 En este informe se va a mencionar el trabajo realizado de un proyecto sobre Arduino para la materia Laboratorio I, en la universidad Blas Pascal. El proyecto consiste en un Cubo Led 5x5x5, el cual su función es hacer luces mediante los leds formando figuras en el cubo.

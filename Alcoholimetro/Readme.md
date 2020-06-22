@@ -90,7 +90,8 @@ telefónico de su responsable / tutor.
 - Lograr que el módulo SIM900 encuentre red automáticamente apenas se enciende y no
 manualmente.
 - Agregar un switch en las conexiones entre baterías y módulos.
-CONCLUSIÓN
+
+## CONCLUSIÓN
 Nuestro proyecto fue creado con la intención de prevenir accidentes ocasionados por el alcohol,
 en la construcción nos dimos cuenta de que podría ser comercializado o implementado en
 métodos de seguridad, tanto policiales como caseros, es un proyecto innovador, es económico y

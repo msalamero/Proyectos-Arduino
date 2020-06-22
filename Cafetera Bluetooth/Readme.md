@@ -3,6 +3,7 @@
 ### Universidad Blas Pascal - Ing. Informática - Lab 1 - 2019
 ------------------------------------------------------------------------------------------
 
+![01](images/1.png)
 
 ## Arduino Leonardo
 
@@ -54,3 +55,33 @@ nos permite enviar comandos AT pero hay que hacerlo a la velocidad de
  
  La alimentación del módulo no la pudimos hacer por la placa ya que el
 pin de 5v estaba ocupado por eso utilizamos una protoboard para la misma.
+
+![02](images/2.png)
+
+## Modulo rele 4 canales 5V 10 A
+
+Para poder simular la acción de apretar un botón de nuestra cafetera
+utilizamos un modulo rele de 4 canales. Lo que hicimos fue soldar con
+estaño dos cables por cada botón y conectarlos a los canales del relé,
+botón café grande al canal 4, botón encendido/apagado al canal 3 y
+boton cafe chico al canal 2, . Luego conectamos desde el módulo relé a
+la arduino su respectivas entradas (VCC a 5V, GND a GND, in4 a puerto
+9 arduino, in3 a puerto 10 arduino y por último in4 a puerto 11 arduino).
+
+![03](images/3.png)
+
+## Aplicación móvil
+Para crear la app utilizamos el entorno de desarrollo de software MIT
+APP INVENTOR, ya que es gratuito, y contiene un conjunto de
+herramientas básicas que nos permite ir enlazando una serie de bloques
+para crear la aplicación, además es muy simple y es de fácil
+comprensión.Link de descarga del archivo .aia
+https://mega.nz/#!uhl0yKTZ!6B4n1vvijVudSmTnvZyqCrgVDceRCUd3K0
+yXxYBUMysPendiente
+Una de las cosas que al iniciar este proyecto quisimos implementar fue
+el uso de un módulo Tiny RTC (reloj) para poder elegir un horario en el
+que la cafetera hiciera el café. Por motivos de tiempo y complicaciones
+en el código decidimos no implementarlo.
+
+
+![04](images/4.png)

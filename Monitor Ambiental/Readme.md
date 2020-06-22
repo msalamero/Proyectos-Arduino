@@ -27,7 +27,7 @@ Los resultados fueron los siguientes:
 
 Decidimos centrarnos en la parte esencial del proyecto, la cual es el uso de los sensores y módulos, una vez terminada vamos a proceder con el sistema de movilidad y el diseño del robot (en sentido de estructura externa).
 
-##FUNCIONAMIENTO: 
+## FUNCIONAMIENTO: 
 
 El robot debe conectarse a una fuente de energía (cargador portátil por ejemplo) para funcionar, luego se debe establecer una conexión a través de cualquier aplicación que maneje Bluetooth y permita enviar comandos a August, una vez conectado aparecerá en el dispositivo un menú que contiene todas las funciones del robot:
 1. Sensor de Distancia

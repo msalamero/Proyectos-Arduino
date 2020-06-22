@@ -242,3 +242,18 @@ visualizar el funcionamiento integral del dispositivo. Mientras hacíamos esto, 
 llevábamos una lista de todas las librerías que serían utilizadas. Luego de esto, utilizamos
 los códigos que creamos uniéndolos y comprobando que nada interfiera entre sí, para
 después poder integrarlo todo.
+
+![01](images/8.png)
+
+## Conclusión
+Este proyecto nos dejó varios aprendizajes. Es muy diferente trabajar en software
+como por ejemplo Tinkercad y realizar todo el conexionado de Arduino con sensores de
+peso, módulo Wifi, sensores ultrasónicos y servo, lo cual puede llevarnos unos minutos, que
+trabajar con hardware y tener que conectar los cables físicamente, darse cuenta las
+distancias desde un sensor a la placa Arduino para calcular el largo del cablo, hacer
+extensiones si es necesario. Es decir que hay una gran brecha entre lo teórico y lo práctico.
+Lo mismo nos pasó con el MQTT, entendíamos cómo funcionaba el protocolo de
+comunicación, sabíamos que era como un intermediario entre los sensores y los usuarios
+que quisieran consultar los mismo. Pero al momento de tener que establecer esta
+comunicación tuvimos muchas dificultades porque nunca habíamos tenido contacto con la
+misma y nos llevó tiempo para familiarizarnos.

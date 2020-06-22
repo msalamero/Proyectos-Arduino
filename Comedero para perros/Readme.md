@@ -2,6 +2,9 @@
 ## By BETTIC, Federico; BOZZANO, Felipe; CERMAK, Matías; FERNANDEZ, Jeremias; FERREYRA, Tomás; OLMOS, Francisco; ZABALA, Mariano.
 ### Universidad Blas Pascal - Ing. Informática - Lab 1 - 2019
 ------------------------------------------------------------------------------------------
+
+[!video](images/video.png)](https://youtu.be/jYG5p0sGS7Y)
+
 ## Introducción
 El objetivo de este proyecto es incluir internet de las cosas en una tarea
 cotidiana, para lograr autonomía y comunicación constante entre el dispositivo y el

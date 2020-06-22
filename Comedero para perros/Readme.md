@@ -3,7 +3,7 @@
 ### Universidad Blas Pascal - Ing. Informática - Lab 1 - 2019
 ------------------------------------------------------------------------------------------
 
-[!video](images/video.png)](https://youtu.be/jYG5p0sGS7Y)
+[![video](images/video.png)](https://youtu.be/jYG5p0sGS7Y)
 
 ## Introducción
 El objetivo de este proyecto es incluir internet de las cosas en una tarea

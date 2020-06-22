@@ -77,7 +77,9 @@ herramientas básicas que nos permite ir enlazando una serie de bloques
 para crear la aplicación, además es muy simple y es de fácil
 comprensión.Link de descarga del archivo .aia
 https://mega.nz/#!uhl0yKTZ!6B4n1vvijVudSmTnvZyqCrgVDceRCUd3K0
-yXxYBUMysPendiente
+yXxYBUMys
+
+## Pendiente
 Una de las cosas que al iniciar este proyecto quisimos implementar fue
 el uso de un módulo Tiny RTC (reloj) para poder elegir un horario en el
 que la cafetera hiciera el café. Por motivos de tiempo y complicaciones

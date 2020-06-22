@@ -243,6 +243,8 @@ llevábamos una lista de todas las librerías que serían utilizadas. Luego de e
 los códigos que creamos uniéndolos y comprobando que nada interfiera entre sí, para
 después poder integrarlo todo.
 
+## Esquema Eléctrico
+
 ![01](images/8.png)
 
 ## Conclusión

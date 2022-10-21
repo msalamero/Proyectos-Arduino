@@ -6,3 +6,6 @@
 ## Introducción
 
 El objetivo de este proyecto es lograr un sistema de cerradura automatizado con control de acceso utilizando un RFID
+
+------------------------------------------------------------------------------------------
+### Por:Romano Facundo Eric Julian Arndt Haase Juan Jose Crerar

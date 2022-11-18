@@ -23,6 +23,11 @@ al cual ingresaremos con la cuenta "user: TecnicasDigitales2, contraseña;Tecnic
 alli nos dirigiremos a dispositivos y alli encontraremos el registro de nuestra RFID y dirigiendonos a asistencia tendremos un registro de quienes han ingresado al laboratorio con fecha y horario. 
 el mail que estaremos utilizando en la cuenta de ubidots es td2.ubp@gmail.com , contraseña: Tecnicasdigitales2 
 
+## Acceso
+
+Se dispondran de 3 targetas, 2 de acceso y 1 para registrar nuevas tarjetas, estas tarjetas estara a disposicion de los profesores en el laboratorio
+las 2 tarjetas que hay de acceso son de acceso permanente, en cambio las targetas que se registren con posterioridad a partir de la tarjeta de registro deberan volver a ser registradas en caso de corte de luz
+
 
 
 

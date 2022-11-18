@@ -14,7 +14,7 @@
 #define R 16 //D0
 #define bl 15 //D8
 
-const char* UBIDOTS_TOKEN = "BBFF-A84dXlAtQb5n5lQptHSbyPtSqvQEnd";  
+const char* UBIDOTS_TOKEN = "BBFF-iIcrhEkjVy5105EolLRS6gkKxCD8J1";  
 const char* WIFI_SSID = "UBP";     
 const char* WIFI_PASS = "pascal25";     
 const char* DEVICE_LABEL = "rfid";    
@@ -31,9 +31,9 @@ int cantidadActual = 1;
 
 //Tarjetas con Acceso
 
-String paseMaster = "BA 32 90 19";
-String pases[cantidad] = {"59 3B 71 A2"};
-String nombres[cantidad] = {"Tarjeta 1"}; 
+String paseMaster = "89 B1 00 8E";
+String pases[cantidad] = {"B9 B4 6A 8E","89 5F 07 B4"};
+String nombres[cantidad] = {"Tarjeta 1","Tarjeta 2" }; 
 
 /////////////////////////////////////////
 

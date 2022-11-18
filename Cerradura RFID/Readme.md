@@ -21,7 +21,7 @@ IoT es un sistema que conecta los dispositivos a los que se puede acceder a trav
 es el servicio que utilizamos como servidor MQTT para enviar nuestros datos para tener registro de entrada
 al cual ingresaremos con la cuenta "user: TecnicasDigitales2, contraseña;Tecnicasdigitales2"
 alli nos dirigiremos a dispositivos y alli encontraremos el registro de nuestra RFID y dirigiendonos a asistencia tendremos un registro de quienes han ingresado al laboratorio con fecha y horario. 
-el mail que estaremos utilizando en la cuenta de ubidots es ts2.ubp@gmail.com , contraseña: Tecnicasdigitales2 
+el mail que estaremos utilizando en la cuenta de ubidots es td2.ubp@gmail.com , contraseña: Tecnicasdigitales2 
 
 
 

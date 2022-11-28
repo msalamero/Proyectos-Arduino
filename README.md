@@ -10,3 +10,4 @@
 | Cubo led | Cubo Led 5x5x5, el cual su función es hacer luces mediante los leds formando figuras en el cubo | Godoy Matías y Marquez Federico | Lab I - 2019
 |Detector de Gases | detector autónomo de gas y monóxido de carbono con dos entradas analógicas y una salida digital, el cual se conecta a internet mediante una conexión WiFi, permitiendo ser monitoreado y accionado mediante una aplicación HTML o dispositivo móvil | Blanco, LEANDRO / Zeitune, PABLO MARTIN | Tecnicas digitales II - 2019
 | Cerradura con RFID | controla la cerradura con RFID conectado un relay que la abre, cuenta con un panel LCD que muestre el acceso permitido o denengado| Facundo Romano ; Eric Julian Arndt Haase ; Juan Jose Crerar| TD2 2022 
+|Aspiradora Robot | Robot con movimiento autónomo mediante sensores de distancia ultrasónicos, con función de aspiradora. Se controla mediante aplicación android |Godoy, Lizzie; Godoy, Santiago; Juarez, Nahuel; Iriarte, Jorge| LAB I - 2022

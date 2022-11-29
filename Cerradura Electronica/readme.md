@@ -13,5 +13,7 @@ En cuanto a los antecedentes, lo que nos motivo a realizar este proyecto de cerr
 
 Nuestra propuesta como grupo es trabajar con una cerradura de tipo cerrojo, la cual colocariamos en una puerta del laboratorio por ejemplo, como se nos habia ocurrido en nuestros antecedentes. Para manipular esta cerradura, tenemos 3 tipos distintos de acceso:
 > Uso de RFID
+> 
 > Uso de Teclado
+> 
 > Uso de aplicacion

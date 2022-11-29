@@ -16,6 +16,9 @@ Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del 
 
 Sirve como un Metodo más eficiente de tomar asistencia de los Alumnos en una Clase.
 
+La Idea de elaborar este Proyecto surgió de observar el Proceso de Toma de Asistencia de los Profesores de la Universidad Blas Pascal. El cual debido a Errores Humanos, falta de conexión a Internet, entre otros, se vuelve tedioso tanto para los Profesores como los Alumnos.
+
+
 <img src="https://user-images.githubusercontent.com/109483879/204407264-a572eaeb-2320-4d8a-b869-112a7a7faf38.jpg" width="512" height="512">
 
 ## **Materiales Utilizados**

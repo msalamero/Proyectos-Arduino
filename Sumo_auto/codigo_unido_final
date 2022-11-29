@@ -1,0 +1,161 @@
+#include <SoftwareSerial.h>
+#define LEDVERDE 2
+#define LEDAMARILLO 13
+#define LEDROJO 4
+#define ANALOGPILA 0
+SoftwareSerial miBT(3, 5);   //Instancia la conexion al bluetooth - PIN 10 a TX y PIN 11 a RX
+// Variables
+int analogValor = 0;
+float voltaje = 0;
+int ledDelay = 800;
+ 
+// Umbrales
+float maximo = 8.0;
+float medio = 3.0;
+float minimo = 1.0;
+
+int TRIG = 8;			// trigger en pin 10
+int ECO = 9;			// echo en pin 9
+int LED = 3;			// LED en pin 3
+int DURACION;
+int DISTANCIA;
+int izq =12; //pin salida a1
+int der=11; //pin salida a2
+int izq1=7;
+int der1=6;
+int speed = 153;
+ char data=0;
+void setup()
+{
+   pinMode(LEDVERDE, OUTPUT);
+  pinMode(LEDAMARILLO, OUTPUT);
+  pinMode(LEDROJO, OUTPUT);
+pinMode(TRIG, OUTPUT); 	// trigger como salida
+  pinMode(ECO, INPUT);		// echo como entrada
+   pinMode (izq,OUTPUT);
+ pinMode (der,OUTPUT);
+ pinMode (izq1,OUTPUT);
+ pinMode (der1,OUTPUT);
+analogWrite (izq,0);
+       analogWrite (der,0);
+       analogWrite (izq1,0);
+       analogWrite (der1,0);
+  digitalWrite(TRIG, LOW); 		// generacion del pulso a enviar			
+   DURACION = pulseIn(ECO, LOW);
+  Serial.begin(9600); //Inicia la comunicación en el monitor serial a 9600 Baudios
+  miBT.begin(9600); // inicialmente la comunicacion serial a 9600 Baudios (velocidad de convencional)
+
+  Serial.println("Módulo conectado");
+}
+ 
+void loop()
+{
+ 
+            digitalWrite(TRIG, HIGH); 		// generacion del pulso a enviar
+  delay(1);				// al pin conectado al trigger
+  digitalWrite(TRIG, LOW);		// del sensor
+  
+
+  DURACION = pulseIn(ECO, HIGH);	// con funcion pulseIn se espera un pulso
+  					// alto en Echo
+  DISTANCIA = DURACION / 58.2;		// distancia medida en centimetros
+  Serial.println(DISTANCIA);		// envio de valor de distancia por monitor serial
+  delay(100);				// demora entre datos
+    if(miBT.available() > 0){
+      data = miBT.read();
+    }
+      switch(data){
+        case 'a':
+        //do{
+
+  if(DISTANCIA  <20)
+{
+   analogWrite (izq,255);
+       analogWrite (der,0);
+       analogWrite (izq1,0);
+       analogWrite (der1,255);
+
+
+  //digitalWrite(izq,HIGH);
+  //digitalWrite(der,LOW);
+  //digitalWrite(izq1,HIGH);
+  //digitalWrite(der1,LOW);
+  delay(1000);
+} else 
+{
+  analogWrite (izq,speed);
+       analogWrite (der,0);
+       analogWrite (izq1,speed);
+       analogWrite (der1,00);
+  //digitalWrite(izq,HIGH);
+  //digitalWrite(der,LOW);  
+  //digitalWrite(izq1,LOW);
+  //digitalWrite(der1,HIGH);
+  delay(100);
+}
+        //}while(data = 'm');
+        break;
+        case'd':
+                 analogWrite (izq,0);
+       analogWrite (der,255);
+       analogWrite (izq1,0);
+       analogWrite (der1,255);
+        break;
+        case 'i':
+        analogWrite (izq,255);
+       analogWrite (der,0);
+       analogWrite (izq1,255);
+       analogWrite (der1,00);
+        break;
+        case 't':
+        analogWrite (izq,0);
+       analogWrite (der,255);
+       analogWrite (izq1,255);
+       analogWrite (der1,0);
+        break;
+        case 'p':
+         analogWrite (izq,0);
+       analogWrite (der,0);
+       analogWrite (izq1,0);
+       analogWrite (der1,0);
+        break;
+        case 'f':
+         analogWrite (izq,255);
+       analogWrite (der,0);
+       analogWrite (izq1,0);
+       analogWrite (der1,255);
+        break;
+        case 'o':
+          // Leemos valor de la entrada analógica
+  analogValor = analogRead(ANALOGPILA);
+ 
+  // Obtenemos el voltaje
+  voltaje = 0.0090 * analogValor;
+  Serial.print("Voltaje: ");
+  Serial.println(voltaje);
+         if (voltaje >= maximo)
+  {
+    digitalWrite(LEDVERDE, HIGH);
+    delay(ledDelay);
+    digitalWrite(LEDVERDE, LOW);
+  }
+  else if (voltaje < maximo && voltaje > medio)
+  {
+    digitalWrite(LEDAMARILLO, HIGH);
+    delay(ledDelay);
+    digitalWrite(LEDAMARILLO, LOW);
+  }
+  else if (voltaje < medio && voltaje > minimo)
+  {
+    digitalWrite(LEDROJO, HIGH);
+    delay(ledDelay);
+    digitalWrite(LEDROJO, LOW);
+  }
+ 
+  // Apagamos todos los LEDs
+  digitalWrite(LEDVERDE, LOW);
+  digitalWrite(LEDAMARILLO, LOW);
+  digitalWrite(LEDROJO, LOW);
+        break;
+      }
+}

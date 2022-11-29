@@ -70,9 +70,11 @@ En primer lugar se plasmó la idea en tinkercad, para una aproximación al circu
 
 ![01](Imagenes/Tinkercad_Circuito.png)
 
-Luego se realizó un diseño en 3D
+Luego se realizó un diseño en 3D para orientar el ensamblaje físico.
 
 [Diseño 3D Tinkercad](https://www.tinkercad.com/things/1jsc8PHOvgw?sharecode=c8GkN69uCo7RVCra96F6EnAEyObauo9RfnZRwgXEPeQ)
+
+![02](Imagenes/3D.png)
 
 ### Montaje
 

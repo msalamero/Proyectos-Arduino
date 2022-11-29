@@ -21,10 +21,26 @@ Nuestra propuesta como grupo es trabajar con una cerradura de tipo cerrojo, la c
 
 Donde para el RFID poseemos una tarjeta de acceso la cual esta cargada en el codigo del arduino y es la que nos permite ya sea apertura o cierre de la cerradura y ademas el cambio de la contraseña. Con el teclado de tipo 4x4, podemos tambien ya sea indicar el armado o el desarmado de la cerradura a traves de una contraseña precargada en el codigo del IDE Arduino que puede ser cambiada si entramos en el modo de cambiar contraseña. Por ultimo, el ultimo metodo de acceso, es una aplicacion desarrollada en la plataroforma de [App Inventor](http://appinventor.mit.edu/). En esta aplicacion, se utiliza la base de datos FireBase, con la cual podemos realizar la gestion de los usuarios y contraseñas segun nuestras preferencias.
 
-##Componentes a utilizar, con valores en pesos argentinos y en dolares.
+## Componentes a utilizar, con valores en pesos argentinos y en dolares.
 
 > Arduino UNO: $4000 - u$s: 13,79.
 > 
-> Lector RFID: 
+> Lector RFID: $ 1000 - u$s: 3,44.
+>
+> Servo: $ 900 – u$s: 3,10.
+>
+>Placa de pruebas: $ 875 - u$s: 3,01.
 > 
+> Pantalla LED 16x2 I2C: $ 2300 - u$s: 7,93.
+> 
+> Teclado numérico: $ 700 – u$s: 2,41.
+>
+> Buzzer: $ 450 – u$s: 1,55.
+>
+> Led: $ 12 cada uno – u$s: 0,08.
+>
+> Resistencias: $ 290 - u$s: 1.
+
+# TOTAL: $10543 - u$s: 36,34
+
 

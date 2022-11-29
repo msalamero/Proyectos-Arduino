@@ -118,7 +118,7 @@ Con App Inventor, se diseñó una aplicación sencilla que permita controlar el 
 
 ![10](Imagenes/App_pantalla_1.png)
 
-* Pantalla Modo Automático: Muestra la distancia que registra el sensor frontal, y tiene selectores para velocidad y distancia para esquivar objetos.
+* Pantalla Modo Automático: Muestra la distancia que registra el sensor frontal, y tiene selectores para velocidad y distancia para esquivar objetos. Se utiliza un reloj para actualizar cada segundo la etiqueta que despliega la distancia del sensor frontal.
 
 ![10](Imagenes/App_pantalla_3.png)
 

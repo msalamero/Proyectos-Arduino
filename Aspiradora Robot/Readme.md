@@ -97,3 +97,5 @@ Con App Inventor, se diseñó una aplicación sencilla que permita controlar el 
 Se podría agregar un acelerómetro y giroscopio para detectar golpes, o choques, que lancen una acción de esquivo o retroceso. Con el giroscopio se podría controlar el giro del robot para esquivar mejor los obstáculos. Además con un acelerómetro se podría detectar si el robot se estanca en algún lado y generar un alerta auditiva y por la aplicación. Se podría agregar un módulo WiFi para una conexión remota al dispositivo, configuración de rutinas de limpieza, control en remoto del robot para sacarlo de estancamientos, etc.
 
 ## Conclusión
+
+Aunque las aspiradoras robot llevan años entre nosotros, aún no se han agotado todas sus posibilidades, u oportunidades de mejora. Emprender proyectos como estos, aunque en principio no es nada "nuevo", ayuda a comprender las bases de cómo funcionan estas cosas y qué se puede mejorar, cambiar, quitar o hasta incluso complementar con funciones de otros tipos de aparatos que quizás no se habían visto juntos en una misma unidad. 

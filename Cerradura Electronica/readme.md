@@ -53,7 +53,13 @@ A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](ht
 
 ![image](https://user-images.githubusercontent.com/89396243/204426067-e0f36551-2e06-4ec5-a46a-fed7281508ff.png)
 
-La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponible en el apartado de diseño de circuitos electronicos. Se adjunta aqui, el link del diseño del circuito electronico mas aproximado, realizado en tinkercad. Presione [aqui](https://www.tinkercad.com/things/1cVKXzhgRyp-lab-final/editel?sharecode=W6T_4yGCV-lJYgSF247wd49hwc-bkN7tiAkDdNMAGq8) para visualizarlo.
+La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponible en el apartado de diseño de circuitos electronicos. Se adjunta aqui, el link del diseño del circuito electronico mas aproximado, realizado en tinkercad. Para ver el proyecto completo puede verlo en la carpeta de diseños Tinkercad.
+
+A continuacion, se adjunta una foto sobre el diseño realizado en Tinkercad acerca de el diseño 3D.
+
+![image](https://user-images.githubusercontent.com/89396243/204652952-5beb2e6a-3fad-43d7-bd56-a2f3c7634bb7.png)
+
+ Para ver el proyecto completo puede verlo en la carpeta de diseños Tinkercad.
 
 ## Dificultades
 

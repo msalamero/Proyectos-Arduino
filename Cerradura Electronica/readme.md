@@ -45,6 +45,9 @@ Donde para el RFID poseemos una tarjeta de acceso la cual esta cargada en el cod
 
 ## Diseño en TinkerCad
 
-A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](https://www.tinkercad.com/).
+A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](https://www.tinkercad.com/). Esta es la pagina oficial.
+
 ![image](https://user-images.githubusercontent.com/89396243/204426067-e0f36551-2e06-4ec5-a46a-fed7281508ff.png)
+
+La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponible en el apartado de diseño de circuitos electronicos. Se adjunta aqui, el link del diseño del circuito electronico mas aproximado, realizado en tinkercad. Presione [aqui](https://www.tinkercad.com/things/1cVKXzhgRyp-lab-final/editel?sharecode=W6T_4yGCV-lJYgSF247wd49hwc-bkN7tiAkDdNMAGq8) para visualizarlo.
 

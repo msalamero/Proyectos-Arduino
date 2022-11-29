@@ -8,3 +8,10 @@ Como objetivo de nuestro trabajo final, desarrollamos una cerradura electronica,
 ## Antecedentes
 
 En cuanto a los antecedentes, lo que nos motivo a realizar este proyecto de cerradura electronica con los integrantes del grupo, fue una conversacion que tuvimos con nuestra profesora, donde nos encontrabamos en la puerta del laboratorio a la espera del ingreso, pudimos observar que la llave no era la correcta y ademas se complicaba el acceso de los alumnos a horario. Otra cosa que nos inspiro a realizar el proyecto, fue pensar en los profesores, que luego de una larga jornada de clases tienen que ir hasta bedelia ya sea para buscar o para dejar una llave.
+
+## Propuesta
+
+Nuestra propuesta como grupo es trabajar con una cerradura de tipo cerrojo, la cual colocariamos en una puerta del laboratorio por ejemplo, como se nos habia ocurrido en nuestros antecedentes. Para manipular esta cerradura, tenemos 3 tipos distintos de acceso:
+> Uso de RFID
+> Uso de Teclado
+> Uso de aplicacion

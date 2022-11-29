@@ -7,3 +7,9 @@
 ###### Temas tratados en la presentacion:
 
 > Antecedentes
+> Idea principal
+> Componentes utilizadas
+> Aplicacion desarrollada
+> Valores estimados de las componentes
+> Prototipo realizado en Tinkercad
+> Utilizad y beneficios de la cerradura

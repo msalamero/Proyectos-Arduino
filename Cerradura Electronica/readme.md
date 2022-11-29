@@ -51,3 +51,22 @@ A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](ht
 
 La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponible en el apartado de diseño de circuitos electronicos. Se adjunta aqui, el link del diseño del circuito electronico mas aproximado, realizado en tinkercad. Presione [aqui](https://www.tinkercad.com/things/1cVKXzhgRyp-lab-final/editel?sharecode=W6T_4yGCV-lJYgSF247wd49hwc-bkN7tiAkDdNMAGq8) para visualizarlo.
 
+## Conclusion
+
+Como conclusion, podemos decir que es incalculable el potencial que puede lograr una placa de Arduino, lo cual vemos de total importancia estudiar y comprender tanto su funcionamiento como el de todas sus componentes, ya que podriamos realizar diversos proyectos utiles para nuestra vida cotidiana.
+
+Como el funcionamiento de la cerradura, podemos ver que su precio es considerablemente mas barato que el resto de las cerraduras electronicas que se encuentran en el mercado actual y podemos observar tambien, que es una increible oportunidad para implementarla tanto en los laborartorios de nuestra facultad, como tambien en cada uno de nuestros hogares.
+
+# Integrantes
+
+> Federico Casani
+>  
+>  Alessandro Chavarino
+>  
+>  Francisco Agustin Muñoz
+
+# Profesores
+
+> Monica Liliana Nano
+> 
+> Martin Salamero

@@ -22,7 +22,7 @@ Nuestra propuesta como grupo es trabajar con una cerradura de tipo cerrojo que v
 ![WhatsApp Image 2022-11-29 at 00 09 50](https://user-images.githubusercontent.com/89396243/204429450-07047a34-cd48-4252-ac2b-aa3e2de346ac.jpeg)
 
 
-Donde para el RFID poseemos una tarjeta de acceso la cual esta cargada en el codigo del arduino y es la que nos permite ya sea apertura o cierre de la cerradura y ademas el cambio de la contraseña. Con el teclado de tipo 4x4, podemos tambien ya sea indicar el armado o el desarmado de la cerradura a traves de una contraseña precargada en el codigo del IDE Arduino que puede ser cambiada si entramos en el modo de cambiar contraseña. Por ultimo, el ultimo metodo de acceso, es una aplicacion desarrollada en la plataroforma de [App Inventor](http://appinventor.mit.edu/). En esta aplicacion, se utiliza la base de datos TinyBase, con la cual podemos realizar la gestion de los usuarios y contraseñas segun nuestras preferencias.
+Donde para el RFID poseemos una tarjeta de acceso la cual esta cargada en el codigo del arduino y es la que nos permite ya sea apertura o cierre de la cerradura y ademas el cambio de la contraseña. Con el teclado de tipo 4x4, podemos tambien ya sea indicar el armado o el desarmado de la cerradura a traves de una contraseña precargada en el codigo del IDE Arduino que puede ser cambiada si entramos en el modo de cambiar contraseña. Por ultimo, el ultimo metodo de acceso, es una aplicacion desarrollada en la plataroforma de [App Inventor](http://appinventor.mit.edu/). En esta aplicacion, se utiliza la base de datos TinyBD, con la cual podemos realizar la gestion de los usuarios y contraseñas segun nuestras preferencias.
 
 ## Componentes a utilizar, con valores en pesos argentinos y en dolares.
 

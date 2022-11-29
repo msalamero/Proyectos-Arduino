@@ -3,7 +3,7 @@
 
 ## Introduccion
 
-Como objetivo de nuestro trabajo final, desarrollamos una cerradura electronica, para mejorar la seguridad de un hogar o un espacio de trabajo. Se detallan a continuacion todos los procesos que realizamos para concluir con nuestro trabajo final.
+El objetivo de nuestro trabajo final es desarrollar una cerradura electronica, para mejorar la seguridad y agilidad de el ingreso a un hogar o a un espacio de trabajo. Se detallan a continuacion todos los procesos que realizamos para concluir con nuestro trabajo final.
 
 ## Antecedentes
 

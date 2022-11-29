@@ -14,6 +14,8 @@ Contador de alumnos mediante una tarjeta de identificación.
 
 Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del alumno y la cantidad de alumnos que apoyaron la tarjeta en el lector.
 
+Sirve como un Metodo más eficiente de tomar asistencia de los Alumnos en una Clase.
+
 <img src="https://user-images.githubusercontent.com/109483879/204407264-a572eaeb-2320-4d8a-b869-112a7a7faf38.jpg" width="512" height="512">
 
 ## **Materiales Utilizados**

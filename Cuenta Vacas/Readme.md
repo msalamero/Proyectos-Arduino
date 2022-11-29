@@ -2,8 +2,6 @@
 
 # **Trabajo Final de Laboratorio I**
 
-![Img-Principal](https://user-images.githubusercontent.com/109483879/204407264-a572eaeb-2320-4d8a-b869-112a7a7faf38.jpg)
-
 **Realizado por los Alumnos de Primer Año:**
   + Franco Manuel Nicolais
   + Angie Tabares Mendez
@@ -14,6 +12,8 @@
 
 Contador de alumnos mediante una tarjeta de identificación. 
 Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del alumno y la cantidad de alumnos que apoyaron la tarjeta en el lector.
+
+![Img-Principal](https://user-images.githubusercontent.com/109483879/204407264-a572eaeb-2320-4d8a-b869-112a7a7faf38.jpg)
 
 ## **Materiales Utilizados**
 

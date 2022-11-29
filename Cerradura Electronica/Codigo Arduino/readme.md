@@ -1,5 +1,6 @@
 # Codigo de Arduino
 
+```
 #include <Keypad.h> //incluye libreria para teclado matricial
 #include <SPI.h>			// incluye libreria bus SPI
 #include <MFRC522.h>			// incluye libreria especifica para MFRC522
@@ -525,3 +526,4 @@ void loop() {
 		}
                
 }}
+```

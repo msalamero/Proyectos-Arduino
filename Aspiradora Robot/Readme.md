@@ -38,6 +38,8 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 ## Armado
 
+### Simulación en Tinkercad
+
 En primer lugar se plasmó la idea en tinkercad, para una aproximación al circuito, código y comportamiento que se pretendía. Se comenzó desde lo más básico, hasta lo más complejo. Primero se intentó solamente con una rueda y un sensor, probando cómo funciona cada parte y cómo se relacionan en conjunto. De esa manera se fue complejizando el circuito hasta la simulación del robot y la aplicación que se simuló con otro arduino comunicándose por puerto serie.
 
 ![01](Imagenes/Tinkercad_Circuito.png)

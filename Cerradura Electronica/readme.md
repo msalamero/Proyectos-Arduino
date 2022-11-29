@@ -59,6 +59,10 @@ La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponi
 
 Como dificultades, nos surgio que fue dificil implementar la cerradura de tipo cerrojo, ya que a la hora de imprimir un archivo 3d de esta cerradura que encontramos en internet, el archivo se encontraba roto o mal grabado, por lo cual tuvimos que realizar nuestro propio diseño de la misma en la pagina de Tinkercad, importando el archivo con la extension .STL. Otra dificultad que nos surgio fue para leer los codigos de 4 bytes de cada una de las tarjetas a utilizar, ya quue tuvimos que desarrollar otro programa que se encargue de realizar esto. A continuacion, la otra dificultad que surgio fue sobre la conexion Bluetooth de la app con el arduino, ya que luego de leer mucha informacion vimos que debiamos realizar la conexion en los pines 0 y 1 del arduino, pero luego de tantas pruebas, vimos que estos pines no nos funcionaron para ello, por lo que tuvimos que conectarlo en los pines 9 y 10. Siguiente a esto, la dificultad que tuvimos fue no nos alcanzaban la cantidad de pines del arduino para todas las componentes que teniamos que utilizar, para esto tuvimos que declarar los pines analogicos A, como salidas para poder utilizarlos como salida para los modulos utilizados. Por ultimo otra dificultad que tuvimos fue el movimiento del servo, ya que debimos implementar un alambre especial para realizar el movimiento del pestillo y debimos calcular los angulos de movimiento para su correcto funcionamiento.
 
+# Posibles mejoras
+
+Como posibles mejoras, vemos que podriamos implementar el uso de una huella digital, pero deberiamos cambiar de arduino ya que no nos alcanzan los pines para conectar este modulo. Otra mejora que podriamos implementar es en la aplicacion poder llevar un registro de armados y desarmados de la cerradura
+
 ## Conclusion
 
 Como conclusion, podemos decir que es incalculable el potencial que puede lograr una placa de Arduino, lo cual vemos de total importancia estudiar y comprender tanto su funcionamiento como el de todas sus componentes, ya que podriamos realizar diversos proyectos utiles para nuestra vida cotidiana.

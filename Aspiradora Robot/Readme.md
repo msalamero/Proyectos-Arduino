@@ -86,4 +86,14 @@ Todos los pasos antes mencionados, no se realizaron en secuencia como se muestra
 
 ### Apliación Móvil
 
+Con App Inventor, se diseñó una aplicación sencilla que permita controlar el robot mediante bluetooth. La aplicación consta de 4 pantallas con funciones diferentes.
+
+* Pantalla Principal: Tiene botones para seleccionar y conectar el bluetooth del arduino y desconectarse. Botón de modo automático, manual y botón de ayuda.
+* Pantalla Modo Automático: Muestra la distancia que registra el sensor frontal, y tiene selectores para velocidad y distancia para esquivar objetos.
+* Pantalla Modo Manual: Tiene los controles de adelante, atrás, izquierda y derecha, y botón para encender o apagar el ventilador de la aspiradora.
+* Pantalla ayuda: Muestra un documento con el manual de la aplicación
+
+## Posibilidades de Mejora
+Se podría agregar un acelerómetro y giroscopio para detectar golpes, o choques, que lancen una acción de esquivo o retroceso. Con el giroscopio se podría controlar el giro del robot para esquivar mejor los obstáculos. Además con un acelerómetro se podría detectar si el robot se estanca en algún lado y generar un alerta auditiva y por la aplicación. Se podría agregar un módulo WiFi para una conexión remota al dispositivo, configuración de rutinas de limpieza, control en remoto del robot para sacarlo de estancamientos, etc.
+
 ## Conclusión

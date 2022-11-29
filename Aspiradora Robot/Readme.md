@@ -20,7 +20,9 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 *[IMAGEN]*
 
-## Materiales Utilizados
+## Materiales
+
+### Componentes Electrónicos
 * Arduino MEGA
 * Sensores Ultrasónicos (x3)
 * Relé
@@ -32,9 +34,24 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 * Motor DC 3V-6V con ruedas (x2)
 * Pilas recargables 18650 (x4)
 * Porta pilas dobles (x2)
+* Cables de conexion arduino
+* Cables unipolares
+
+### Varios
 * Rueda "loca"
 * Botella pequeña ~500mL
 * Base de madera
+* Tornillos M3 (opcional)
+* Standoff M3 (opcional)
+* Estaño para solar
+* Barras de silicona
+
+### Herramientas
+* Destornilladores
+* Pinza de punta
+* Alicate
+* Soldador de estaño
+* Pistola de silicona
 
 ## Armado
 
@@ -44,6 +61,13 @@ En primer lugar se plasmó la idea en tinkercad, para una aproximación al circu
 
 ![01](Imagenes/Tinkercad_Circuito.png)
 
-Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede a través de la simulación, simplemente se procedió a copiar el esquema de conexión, adaptado a los pines disponibles en Arduino MEGA. Lo que se agregó extra al circuito simulado fue el regulador de voltaje, relé, y se sustituyó la comunicación cableada de puerto serie por comunicación por el módulo bluetooth en el puerto Serial3 del Arduino Mega. 
+Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede a través de la simulación, simplemente se procedió a copiar el esquema de conexión, adaptado a los pines disponibles en Arduino MEGA. Lo que se agregó extra al circuito simulado fue el regulador de voltaje, relé, y se sustituyó la comunicación cableada de puerto serie por comunicación por el módulo bluetooth en el puerto Serial3 del Arduino Mega.
+
+### Montaje
+
+1) Se montó sobre la base de madera la protoboard con el pegamento trasero que posee, y el arduino utilizando tornillos M3 con sujetadores standoff M3. Si no se tiene de estos tornillos, con silicona caliente se puede fijar el arduino a la base.
+2) Se utilizaron restos plásticos y de madera, para hacer de soporte a los sensores ultrasónicos. Se pegaron con silicona caliente los sensores, cada uno a un soporte, y luego los soportes a la base de madera.
+
+
 
 ## Conclusión

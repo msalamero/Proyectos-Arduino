@@ -5,14 +5,14 @@
 - Juan Ignacio Battiston
 - Sol Checa
 - Tomas Sesto
-
+[Trailer del grupo.](https://youtu.be/RUo6UXJDMB0)
 <img src="https://raw.githubusercontent.com/msalamero/Proyectos-Arduino/master/Reloj%20de%20Ajedrez/Images/prototipo_terminado.jpeg" alt="drawing" width=700px height=900px/>
 
 
 ### Introducción
 El ajedrez es un juego considerado antiguo ya que a lo largo del tiempo no hubo mejoras de este. Decidimos tomar el concepto del reloj de ajedrez analógico e intentar mejorarlo, con el fin de facilitar el acceso al juego y fomentar la participación de todo grupo de edades en el mismo.
 #### Presentacion
-[Presentación del trabajo.]()
+[Presentación del trabajo. (Descargar para visualizar)](https://github.com/msalamero/Proyectos-Arduino/blob/master/Reloj%20de%20Ajedrez/Presentacion/presentacion.html)
 #### Informe
 [Informe del trabajo](https://github.com/msalamero/Proyectos-Arduino/blob/master/Reloj%20de%20Ajedrez/Informe/Reloj%20de%20Ajedrez%20Informe%20.pdf)
 

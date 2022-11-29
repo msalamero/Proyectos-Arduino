@@ -49,7 +49,7 @@ Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del 
 
 **Producto Final:**
 
-<img src="https://user-images.githubusercontent.com/109483879/204408234-2a4aeeb5-ee95-4a57-acb3-165d283fcf5a.jpg" width="630" height="900">
+<img src="https://user-images.githubusercontent.com/109483879/204408234-2a4aeeb5-ee95-4a57-acb3-165d283fcf5a.jpg" width="312" height="312">
 
 **Demostración de Uso:**
 

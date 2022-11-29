@@ -5,7 +5,9 @@
 - Juan Ignacio Battiston
 - Sol Checa
 - Tomas Sesto
+
 [Trailer del grupo.](https://youtu.be/RUo6UXJDMB0)
+
 <img src="https://raw.githubusercontent.com/msalamero/Proyectos-Arduino/master/Reloj%20de%20Ajedrez/Images/prototipo_terminado.jpeg" alt="drawing" width=700px height=900px/>
 
 

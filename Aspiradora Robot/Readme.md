@@ -40,6 +40,6 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 En primer lugar se plasmó la idea en tinkercad, para una aproximación al circuito, código y comportamiento que se pretendía.
 
-![01](imagenes/Tinkercad_Circuito.png)
+![01](Imagenes/Tinkercad_Circuito.png)
 
 ## Conclusión

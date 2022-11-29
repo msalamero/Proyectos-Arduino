@@ -51,6 +51,10 @@ A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](ht
 
 La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponible en el apartado de diseño de circuitos electronicos. Se adjunta aqui, el link del diseño del circuito electronico mas aproximado, realizado en tinkercad. Presione [aqui](https://www.tinkercad.com/things/1cVKXzhgRyp-lab-final/editel?sharecode=W6T_4yGCV-lJYgSF247wd49hwc-bkN7tiAkDdNMAGq8) para visualizarlo.
 
+## Dificultades
+
+Como dificultades, nos surgio que fue dificil implementar la cerradura de tipo cerrojo, ya que tuvimos que imprimir un archivo 3d de esta cerradura y por lo general los archivos se encontraban rotos o mal grabados, por lo cual tuvimos que imprimirlo repetidas veces hasta lograr su correcta impresion. Ademas, otra dificultad que nos surgio fue para leer los codigos de 4 bytes de cada una de las tarjetas a utilizar, ya quue tuvimos que desarrollar otro programa que se encargue de realizar esto. Por ultimo, la otra dificultad que surgio fue sobre la conexion Bluetooth de la app con el arduino, ya que costaba enviarle señales al arduino desde la propia app.
+
 ## Conclusion
 
 Como conclusion, podemos decir que es incalculable el potencial que puede lograr una placa de Arduino, lo cual vemos de total importancia estudiar y comprender tanto su funcionamiento como el de todas sus componentes, ya que podriamos realizar diversos proyectos utiles para nuestra vida cotidiana.

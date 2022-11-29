@@ -62,7 +62,7 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 ## Armado
 
-### Simulación en Tinkercad
+### Simulación y diseño en Tinkercad
 
 En primer lugar se plasmó la idea en tinkercad, para una aproximación al circuito, código y comportamiento que se pretendía. Se comenzó desde lo más básico, hasta lo más complejo. Primero se intentó solamente con una rueda y un sensor, probando cómo funciona cada parte y cómo se relacionan en conjunto. De esa manera se fue complejizando el circuito hasta la simulación del robot y la aplicación que se simuló con otro arduino comunicándose por puerto serie.
 
@@ -70,9 +70,13 @@ En primer lugar se plasmó la idea en tinkercad, para una aproximación al circu
 
 ![01](Imagenes/Tinkercad_Circuito.png)
 
-Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede a través de la simulación, simplemente se procedió a copiar el esquema de conexión, adaptado a los pines disponibles en Arduino MEGA. Lo que se agregó extra al circuito simulado fue el regulador de voltaje, relé, y se sustituyó la comunicación cableada de puerto serie por comunicación por el módulo bluetooth en el puerto Serial3 del Arduino Mega.
+Luego se realizó un diseño en 3D
+
+[Diseño 3D Tinkercad](https://www.tinkercad.com/things/1jsc8PHOvgw?sharecode=c8GkN69uCo7RVCra96F6EnAEyObauo9RfnZRwgXEPeQ)
 
 ### Montaje
+
+Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede a través de la simulación, simplemente se procedió a copiar el esquema de conexión, adaptado a los pines disponibles en Arduino MEGA. Lo que se agregó extra al circuito simulado fue el regulador de voltaje, relé, y se sustituyó la comunicación cableada de puerto serie por comunicación por el módulo bluetooth en el puerto Serial3 del Arduino Mega.
 
 1) Se soldaron cables unipolares a los contactos de los motores DC, un cable por cada contacto. Estos cables son los que se conectarán al controlador de motores. Luego se fijaron los motores a la base de madera con silicona caliente. 
 2) Se montó sobre la base de madera la protoboard con el pegamento trasero que posee, y el arduino utilizando tornillos M3 con sujetadores standoff M3. Si no se tiene de estos tornillos, con silicona caliente se puede fijar el arduino a la base.

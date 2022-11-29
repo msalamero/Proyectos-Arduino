@@ -12,3 +12,4 @@
 | Cerradura con RFID | controla la cerradura con RFID conectado un relay que la abre, cuenta con un panel LCD que muestre el acceso permitido o denengado| Facundo Romano ; Eric Julian Arndt Haase ; Juan Jose Crerar| TD2 2022 
 |Aspiradora Robot | Robot con movimiento autónomo mediante sensores de distancia ultrasónicos, con función de aspiradora. Se controla mediante aplicación android |Godoy, Lizzie; Godoy, Santiago; Juarez, Nahuel; Iriarte, Jorge| LAB I - 2022
 |Cuenta Vacas| Contador de alumnos que mediante una tarjeta puede identificar de que alumno se trata y enumerar la cantidad de alumnos en total| Manuel Nicolais, Angie Tabares Mendez, Morena Mercado, Edgar Karpowicz| Lab I - 2022|
+|Sumo lucha| Nuestro proyecto se basa de un robot sumo que se puede manejar manual y automatico para competir contra otros | Octavio Douglas, Ignacio Galvan , Tomas Calzada, Fabricio Marques, Bautista Menzi | Lab I - 2022|

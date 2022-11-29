@@ -82,13 +82,31 @@ Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede 
 
 1) Se soldaron cables unipolares a los contactos de los motores DC, un cable por cada contacto. Estos cables son los que se conectarán al controlador de motores. Luego se fijaron los motores a la base de madera con silicona caliente. 
 2) Se montó sobre la base de madera la protoboard con el pegamento trasero que posee, y el arduino utilizando tornillos M3 con sujetadores standoff M3. Si no se tiene de estos tornillos, con silicona caliente se puede fijar el arduino a la base.
+
+![03](Imagenes/montaje_arduino.jpg)
+
 3) Se utilizaron restos plásticos y de madera, para hacer de soporte a los sensores ultrasónicos. Se pegaron con silicona caliente los sensores, cada uno a un soporte, y luego los soportes a la base de madera.
 4) Siguiendo el esquema de conexión de la simulación en tinkercad, se conectaron todos los componentes, teniendo en cuenta que, en la simulación los sensores tenían 3 pines, y los que se tenían a disposición eran de 4 pines. Por lo tanto se eligieron pines contiguos para los pines de echo y trigger de los sensores.
 5) Se armó con la botella, el ventilador ya la manguera un depósito para lo que se aspiraría. Se cortó el fondo de la botella para colocar el ventilador de modo que saque aire hacia atrás de la botella, es decir que genere una corriente desde el pico hacia el fondo. Con el fondo de la botella se hizo un marco para una tela que haría de filtro de polvo/partículas. Se colocó el filtro y por detrás el ventilador, fijando y sellando todo con silicona caliente.
+
+![04](Imagenes/botella_aspiradora.jpg)
+
+![05](Imagenes/filtro_aspiradora.jpg)
+
 6) Se armó una conexión en serie entre los portapilas, para luego conectar el positivo al switch con retención y se recicló un conector macho de fuente AC-DC compatible con la alimentación externa de arduino, para conectar las pilas con el arduino. Las pilas se disponen en serie, teniendo un total de 15V aprox
 7) Se colocó el relé en la protoboard, conectando 5v y ground, y se eligió un pin libre del arduino para conectarlo con el pin de señal en el relé. En los contactos del relé se conectó en el normal abierto la alimentación de 15v proveniente de las pilas y el cable positivo del ventilador. El cable de tierra del ventilador se conectó a tierra en la protoboard.
+
+![06](Imagenes/ventilador_rele.jpg)
+
 8) El regulador de voltaje se conectó tomando como entrada los 15V de las pilas, y la salida (se midió primero que saque 9V) al pin potencia 2 del controlador de motores. La salida del regulador de voltaje sería como la pila de 9V de la simulación
+
+![07](Imagenes/rele_regulador.jpg)
+
 9) El Módulo bluetooth se conectó primero al arduino sólo, y se le cargó al arduino un código de configuración de bluetooth, para que, por medio de comandos AT se pueda cambiar el nombre del módulo bluetooth, el pin, y la velocidad de comunicación para que sea compatible con la aplicación de App Inventor. Luego, se conectó similar a cómo se conectaron los arduinos en la simulación, con la salvedad de que se utilizó el puerto Serie 3, del arduino MEGA.
+
+![08](Imagenes/prueba_BT.jpg)
+
+![09](Imagenes/BT.jpg)
 
 Todos los pasos antes mencionados, no se realizaron en secuencia como se muestra, sino que a través de prueba y error se fue dando forma final. De la misma manera de cómo se empezó a conectar todo en la simulación, así se hizo con el prototipo físico. Probando los comportamientos reales de cada componente, y cómo se relacionan con los demás.
 

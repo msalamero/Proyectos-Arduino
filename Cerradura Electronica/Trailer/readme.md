@@ -8,4 +8,4 @@ Se adjunta a continuacion el trailer de la realizacion de la cerradura electroni
 >
 > Alessandro Chiavarino, encargado de implementar el teclado matricial en el arduino, realizar el informe de trabajo final y diseñar la aplicacion junto a Francisco
 
-Para ver el trailer, presione [continuacion](https://youtu.be/u_RQXEk65YU).
+Para ver el trailer, presione [continuación](https://youtu.be/u_RQXEk65YU).

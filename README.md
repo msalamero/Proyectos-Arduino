@@ -13,3 +13,4 @@
 |Aspiradora Robot | Robot con movimiento autónomo mediante sensores de distancia ultrasónicos, con función de aspiradora. Se controla mediante aplicación android |Godoy, Lizzie; Godoy, Santiago; Juarez, Nahuel; Iriarte, Jorge| LAB I - 2022
 |Cuenta Vacas| Contador de alumnos que mediante una tarjeta puede identificar de que alumno se trata y enumerar la cantidad de alumnos en total| Manuel Nicolais, Angie Tabares Mendez, Morena Mercado, Edgar Karpowicz| Lab I - 2022|
 |Robot Sumo| Nuestro proyecto se basa de un robot sumo que se puede manejar manual y automatico para competir contra otros | Octavio Douglas, Ignacio Galvan , Tomas Calzada, Fabricio Marques, Bautista Menzi | Lab I - 2022|
+|Reloj de Ajedrez| Reloj de ajedrez funcional controlado a través de una aplicación movil. | Fabrizio Dematias, Juan Ignacio Battiston, Sol Checa y Tomas Sesto.|Lab - 2022|

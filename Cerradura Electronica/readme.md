@@ -1,5 +1,6 @@
 # Cerradura Electronica - Grupo 6
 
+# Informe
 
 ## Introduccion
 

@@ -1,1 +1,1 @@
-# Aplicacion realizada en TinkerCad
+# Aplicacion realizada en AppInventor

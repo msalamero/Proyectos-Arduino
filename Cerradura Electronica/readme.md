@@ -56,7 +56,7 @@ La imagen se encuentra editada, ya que el modulo de RFID no se encuentra disponi
 
 ## Dificultades
 
-Como dificultades, nos surgio que fue dificil implementar la cerradura de tipo cerrojo, ya que tuvimos que imprimir un archivo 3d de esta cerradura y por lo general los archivos se encontraban rotos o mal grabados, por lo cual tuvimos que imprimirlo repetidas veces hasta lograr su correcta impresion. Ademas, otra dificultad que nos surgio fue para leer los codigos de 4 bytes de cada una de las tarjetas a utilizar, ya quue tuvimos que desarrollar otro programa que se encargue de realizar esto. Por ultimo, la otra dificultad que surgio fue sobre la conexion Bluetooth de la app con el arduino, ya que costaba enviarle señales al arduino desde la propia app.
+Como dificultades, nos surgio que fue dificil implementar la cerradura de tipo cerrojo, ya que tuvimos que imprimir un archivo 3d de esta cerradura y por lo general los archivos se encontraban rotos o mal grabados, por lo cual tuvimos que imprimirlo repetidas veces hasta lograr su correcta impresion. Ademas, otra dificultad que nos surgio fue para leer los codigos de 4 bytes de cada una de las tarjetas a utilizar, ya quue tuvimos que desarrollar otro programa que se encargue de realizar esto. A continuacion, la otra dificultad que surgio fue sobre la conexion Bluetooth de la app con el arduino, ya que costaba enviarle señales al arduino desde la propia app. Por ultimo, la dificultad que tuvimos fue no nos alcanzaban la cantidad de pines del arduino para todas las componentes que teniamos que utilizar, pero luego pudimos completar todos los pines necesarios sin dejar ninguno libre.
 
 ## Conclusion
 

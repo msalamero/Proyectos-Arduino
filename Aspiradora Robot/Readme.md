@@ -66,6 +66,8 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 En primer lugar se plasmó la idea en tinkercad, para una aproximación al circuito, código y comportamiento que se pretendía. Se comenzó desde lo más básico, hasta lo más complejo. Primero se intentó solamente con una rueda y un sensor, probando cómo funciona cada parte y cómo se relacionan en conjunto. De esa manera se fue complejizando el circuito hasta la simulación del robot y la aplicación que se simuló con otro arduino comunicándose por puerto serie.
 
+[Circuito electrónico en Tinkercad](https://www.tinkercad.com/things/ipW6RhDT6hI?sharecode=hFV6fbLXLOhXxvJJTwgbjpEZRCi8CXwuvF4kZiA6a2g)
+
 ![01](Imagenes/Tinkercad_Circuito.png)
 
 Una vez obtenido el comportamiento que se pretendía, o lo máximo que se puede a través de la simulación, simplemente se procedió a copiar el esquema de conexión, adaptado a los pines disponibles en Arduino MEGA. Lo que se agregó extra al circuito simulado fue el regulador de voltaje, relé, y se sustituyó la comunicación cableada de puerto serie por comunicación por el módulo bluetooth en el puerto Serial3 del Arduino Mega.

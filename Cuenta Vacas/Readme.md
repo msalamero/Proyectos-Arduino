@@ -13,7 +13,7 @@
 Contador de alumnos mediante una tarjeta de identificación. 
 Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del alumno y la cantidad de alumnos que apoyaron la tarjeta en el lector.
 
-###### **Materiales Utilizados**
+## **Materiales Utilizados**
 
 **Arduino Uno con Complementos:**
 
@@ -43,7 +43,7 @@ Al apoyar la tarjeta en el lector RFDI, muestra en un display LCD el nombre del 
 
 ![RFID Suelto](https://user-images.githubusercontent.com/109483879/204406502-a2a52eaf-3a22-401d-9513-759521b3485f.jpg)
 
-###### **Producto Final y Demostración**
+## **Producto Final y Demostración**
 
 **Producto Final:**
 

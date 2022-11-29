@@ -43,4 +43,8 @@ Donde para el RFID poseemos una tarjeta de acceso la cual esta cargada en el cod
 
 # TOTAL: $10543 - u$s: 36,34
 
+## Diseño en TinkerCad
+
+A continuacion, se adjunta una foto sobre el diseño realizado en [TINKERCAD](https://www.tinkercad.com/).
+![image](https://user-images.githubusercontent.com/89396243/204426067-e0f36551-2e06-4ec5-a46a-fed7281508ff.png)
 

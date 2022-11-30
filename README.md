@@ -14,3 +14,5 @@
 |Cuenta Vacas| Contador de alumnos que mediante una tarjeta puede identificar de que alumno se trata y enumerar la cantidad de alumnos en total| Manuel Nicolais, Angie Tabares Mendez, Morena Mercado, Edgar Karpowicz| Lab I - 2022|
 |Robot Sumo| Nuestro proyecto se basa de un robot sumo que se puede manejar manual y automatico para competir contra otros | Octavio Douglas, Ignacio Galvan , Tomas Calzada, Fabricio Marques, Bautista Menzi | Lab I - 2022|
 |Reloj de Ajedrez| Reloj de ajedrez funcional controlado a través de una aplicación movil. | Fabrizio Dematias, Juan Ignacio Battiston, Sol Checa y Tomas Sesto.|Lab I - 2022|
+
+|Cerradura Electronica| Cerradura electronica de 3 tipos posibles de acceso | Federico Casani, Alessandro Chiavarino, Francisco Agustin Muñoz.|Lab I - 2022|

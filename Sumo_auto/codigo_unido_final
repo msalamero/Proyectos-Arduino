@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 #define LEDVERDE 2
-#define LEDAMARILLO 12
+#define LEDAMARILLO 13
 #define LEDROJO 4
 #define ANALOGPILA 0
 SoftwareSerial miBT(3, 5);   //Instancia la conexion al bluetooth - PIN 10 a TX y PIN 11 a RX
@@ -11,7 +11,7 @@ int ledDelay = 800;
  
 // Umbrales
 float maximo = 8.0;
-float medio = 3.0;
+float medio = 2.0;
 float minimo = 1.0;
 
 int TRIG = 8;			// trigger en pin 10
@@ -23,7 +23,6 @@ int izq =12; //pin salida a1
 int der=11; //pin salida a2
 int izq1=7;
 int der1=6;
-int speed = 153;
  char data=0;
 void setup()
 {
@@ -51,7 +50,14 @@ analogWrite (izq,0);
 void loop()
 {
  
-            digitalWrite(TRIG, HIGH); 		// generacion del pulso a enviar
+           
+    if(miBT.available() > 0){
+      data = miBT.read();
+    }
+      switch(data){
+        case 'a':
+        //do{
+ digitalWrite(TRIG, HIGH); 		// generacion del pulso a enviar
   delay(1);				// al pin conectado al trigger
   digitalWrite(TRIG, LOW);		// del sensor
   
@@ -61,39 +67,21 @@ void loop()
   DISTANCIA = DURACION / 58.2;		// distancia medida en centimetros
   Serial.println(DISTANCIA);		// envio de valor de distancia por monitor serial
   delay(100);				// demora entre datos
-    if(miBT.available() > 0){
-      data = miBT.read();
-    }
-      switch(data){
-        case 'a':
-        //do{
-
   if(DISTANCIA  <20)
 {
    analogWrite (izq,255);
        analogWrite (der,0);
        analogWrite (izq1,0);
        analogWrite (der1,255);
-
-
-  //digitalWrite(izq,HIGH);
-  //digitalWrite(der,LOW);
-  //digitalWrite(izq1,HIGH);
-  //digitalWrite(der1,LOW);
   delay(1000);
 } else 
 {
-  analogWrite (izq,speed);
+  analogWrite (izq,153);
        analogWrite (der,0);
-       analogWrite (izq1,speed);
+       analogWrite (izq1,153);
        analogWrite (der1,00);
-  //digitalWrite(izq,HIGH);
-  //digitalWrite(der,LOW);  
-  //digitalWrite(izq1,LOW);
-  //digitalWrite(der1,HIGH);
   delay(100);
 }
-        //}while(data = 'm');
         break;
         case'd':
                  analogWrite (izq,0);
@@ -153,6 +141,12 @@ void loop()
   }
  
   // Apagamos todos los LEDs
+   digitalWrite(TRIG, LOW); 		// generacion del pulso a enviar			
+   DURACION = pulseIn(ECO, LOW);
+  analogWrite (izq,0);
+       analogWrite (der,0);
+       analogWrite (izq1,0);
+       analogWrite (der1,0);
   digitalWrite(LEDVERDE, LOW);
   digitalWrite(LEDAMARILLO, LOW);
   digitalWrite(LEDROJO, LOW);

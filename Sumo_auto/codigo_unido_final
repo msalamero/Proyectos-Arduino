@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 #define LEDVERDE 2
-#define LEDAMARILLO 13
+#define LEDAMARILLO 12
 #define LEDROJO 4
 #define ANALOGPILA 0
 SoftwareSerial miBT(3, 5);   //Instancia la conexion al bluetooth - PIN 10 a TX y PIN 11 a RX

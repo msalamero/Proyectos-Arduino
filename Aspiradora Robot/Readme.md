@@ -5,7 +5,7 @@
 * Godoy Santiago
 * Juarez Carlos
 * Iriarte Jorge
-
+### [Link: Presentación PowerPoint](PowerPoint-ProyectoFinalLab.pdf)
 ## Inspiración
 Para desarrollar  este proyecto nos inspiramos en las necesidades básicas del hogar, es por ello que diseñaremos un robot de tipo doméstico, incorporando funciones  que consideramos innovadoras, al robot convencional. Utilizando “Tinkercad”, un programa de modelado 3D en línea gratuito que se ejecuta en un navegador web. Alli desarrollaremos el diseño, circuito y código de programación del robot.
 
@@ -64,13 +64,13 @@ El robot aspirador Roomba incluye una serie de sensores (táctiles, ópticos y a
 
 En primer lugar se plasmó la idea en tinkercad, para una aproximación al circuito, código y comportamiento que se pretendía. Se comenzó desde lo más básico, hasta lo más complejo. Primero se intentó solamente con una rueda y un sensor, probando cómo funciona cada parte y cómo se relacionan en conjunto. De esa manera se fue complejizando el circuito hasta la simulación del robot y la aplicación que se simuló con otro arduino comunicándose por puerto serie.
 
-[Circuito electrónico en Tinkercad](https://www.tinkercad.com/things/ipW6RhDT6hI?sharecode=hFV6fbLXLOhXxvJJTwgbjpEZRCi8CXwuvF4kZiA6a2g)
+[Link: Circuito electrónico en Tinkercad](https://www.tinkercad.com/things/ipW6RhDT6hI?sharecode=hFV6fbLXLOhXxvJJTwgbjpEZRCi8CXwuvF4kZiA6a2g)
 
 ![Tinkercad_Circuito](Imagenes/Tinkercad_Circuito.png)
 
 Luego se realizó un diseño en 3D para orientar el ensamblaje físico.
 
-[Diseño 3D Tinkercad](https://www.tinkercad.com/things/1jsc8PHOvgw?sharecode=c8GkN69uCo7RVCra96F6EnAEyObauo9RfnZRwgXEPeQ)
+[Link: Diseño 3D Tinkercad](https://www.tinkercad.com/things/1jsc8PHOvgw?sharecode=c8GkN69uCo7RVCra96F6EnAEyObauo9RfnZRwgXEPeQ)
 
 ![3D](Imagenes/3D.png)
 

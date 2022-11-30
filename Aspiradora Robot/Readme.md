@@ -6,6 +6,7 @@
 * Juarez Carlos
 * Iriarte Jorge
 ### [Link: Presentación PowerPoint](PowePoint-ProyectoFinalLab.pdf)
+### [Link: Video Tutorial](https://www.youtube.com/watch?v=D3xCoX2BRus&ab_channel=SantiGodoy)
 ## Inspiración
 Para desarrollar  este proyecto nos inspiramos en las necesidades básicas del hogar, es por ello que diseñaremos un robot de tipo doméstico, incorporando funciones  que consideramos innovadoras, al robot convencional. Utilizando “Tinkercad”, un programa de modelado 3D en línea gratuito que se ejecuta en un navegador web. Alli desarrollaremos el diseño, circuito y código de programación del robot.
 

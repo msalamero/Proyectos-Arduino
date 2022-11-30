@@ -4,8 +4,9 @@
 
 Originalmente se nos habían ocurrido ideas significativamente diferentes a la que terminamos desarrollando, tales como una tostadora que escriba y/o dibuje en una tostada, un sistema de riego automático, un sistema para alimentar mascotas automático, un guante que escriba en una aplicación el significado de diferentes gestos que se hacían en lenguaje para mudos, entre otras ideas. Pero finalmente, luego de considerar que algunas de esas ideas eran muy difíciles de hacer y otras eran demasiado simples o muy vistas anteriormente, decidimos hacer algo que no necesariamente tuviera un fin útil en la vida diaria, sino que sirviera para divertirse. Fue así como se nos ocurrió la idea de hacer una versión con arduinos de las antiguas pistas de carreras de juguete, en las cual los vehículos se controlaban mediante un control remoto.
 
-![](/imagenes/1.png)
-
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/1.png)
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/3.png)
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/2.png)
 ## Propuesta mejorada
 
 Nuestra idea consiste en realizar dos pistas paralelas con luces led, estas simularán el movimiento de los vehículos. Y mediante una aplicación, la cual deberán descargar dos jugadores para que cada uno se comunique con una de las dos placas Arduino UNO. Uno de los jugadores será el “host”, el cual podrá establecer una cantidad de vueltas a correr y cuando ambos jugadores estén listos, la carrera comenzará. Para hacer que los vehículos se muevan, los jugadores deberán tocar en sus celulares lo más rápido posible el botón de avanzar.
@@ -36,9 +37,15 @@ Nuestra idea consiste en realizar dos pistas paralelas con luces led, estas simu
 
 ## Primer prototipo
 
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/4.png)
+
 En esta imagen se ve el diseño realizado en tinkercad. En la aplicación no hay módulos bluetooth o módulos wifi, por lo cual no sería posible mandar a las placas la señal de que avancen los vehículos, entonces, a fines de simulación, colocamos dos botones para que avancen los vehículos.
 
 ## Diseño de la aplicación
+
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/5.png)
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/6.png)
+![](https://github.com/msalamero/Proyectos-Arduino/blob/master/ArduinoRacing22K/imagenes/7.png)
 
 Diseño del menú de la aplicación, Menú de selección de usuario y Menú de jugador Host. El menú de invitado es idéntico al de host, solamente que no se cuenta con la opción de configurar las vueltas a realizar.
 

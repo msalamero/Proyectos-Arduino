@@ -15,3 +15,4 @@
 |Robot Sumo| Nuestro proyecto se basa de un robot sumo que se puede manejar manual y automatico para competir contra otros | Octavio Douglas, Ignacio Galvan , Tomas Calzada, Fabricio Marques, Bautista Menzi | Lab I - 2022|
 |Reloj de Ajedrez| Reloj de ajedrez funcional controlado a través de una aplicación movil. | Fabrizio Dematias, Juan Ignacio Battiston, Sol Checa y Tomas Sesto.|Lab I - 2022|
 |Cerradura Electronica| Cerradura electronica de 3 tipos posibles de acceso: RFID, App Movil y teclado numerico | Federico Casani, Alessandro Chiavarino, Francisco Agustin Muñoz.|Lab I - 2022|
+|ArduinoRacing22k | Juego de carreras inspirado en el scalextric en el cual cambiamos los elementos con los cuales se jugaba cambiando el mando por una app en un móvil y las pistas por tiras led. |Octavio Briguera, Guerrero Lautaro | Lab I -2022|

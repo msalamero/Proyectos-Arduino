@@ -65,4 +65,4 @@ Gracias a el Teclado Matricial y al Display Lcd 1602 logramos realizar el proyec
 
 # Video promocional
 
-[![video](Imagenes/Imagen13)](https://youtu.be/zBO5wv_iBjw)
+[![video](Imagenes/Imagen12.png)](https://youtu.be/zBO5wv_iBjw)

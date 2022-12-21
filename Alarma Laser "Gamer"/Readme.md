@@ -26,31 +26,38 @@ Nuestra propuesta fue aprovechar los conocimientos dados por nuestra Universidad
 ## MATERIALES.
 
 * Placa Arduino  $14 usd
+
 ![01](Imagenes/Imagen1.png)
 * Protoboard $3.80 usd
- 
+
+![01](Imagenes/Imagen2.png)
 * Puntero láser, módulo KY-008 $2 usd
  
+ ![01](Imagenes/Imagen3.png)
 * Sensor fotorresistencia (LDR) $2 usd
  
+ ![01](Imagenes/Imagen4.png)
 * Una resistencia de 10 KΩ   $5 usd
-  
+
+![01](Imagenes/Imagen5.png)
 * Cables  $3 usd
- 
+
+![01](Imagenes/Imagen6.png) 
 * Buzzer activo $3 usd 
- 
+
+![01](Imagenes/Imagen7.png) 
 * Display Lcd 1602 $15 usd
- 
+
+![01](Imagenes/Imagen8.png) 
 * Teclado Matricial $3 usd
- 
+
+![01](Imagenes/Imagen9.png) 
 ## OBJETIVOS DE LOS MATERIALES:
 
 El funcionamiento del proyecto consiste en utilizar el calor brindado por el Puntero láser, módulo KY-008 y captado por la  fotorresistencia (LDR) y utilizarlas para monitoriar que siempre la llegada del laser impacte sobre la fotoresistencia. Asi podremos obtener informacion si alguien o algo atraviesa el laser.
 La utilización del Buzzer la utilizaremos para que en el momento en el que algo atraviese la alarma, provocar un sonido para alertar sobre el movimiento.
 Gracias a el Teclado Matricial y al Display Lcd 1602 logramos realizar el proyecto de una forma más util y posible de usar este producto en el dia a dia, ya que utilizaremos el display para advertir si la alarma esta activada o desactivada, podremos ingresar a traves del teclado matricial un codigo para activar la alarma o cambiarlo.
 
+## CONEXIONES DEL PROYECTO: 	
 
-
-
-
-CONEXIONES DEL PROYECTO: 	
+![01](Imagenes/Imagen10.png)

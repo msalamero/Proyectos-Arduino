@@ -26,7 +26,7 @@ Nuestra propuesta fue aprovechar los conocimientos dados por nuestra Universidad
 ## MATERIALES.
 
 * Placa Arduino  $14 usd
- 
+![01](Imagenes/Imagen1.png)
 * Protoboard $3.80 usd
  
 * Puntero láser, módulo KY-008 $2 usd

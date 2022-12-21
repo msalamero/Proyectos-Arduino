@@ -61,3 +61,8 @@ Gracias a el Teclado Matricial y al Display Lcd 1602 logramos realizar el proyec
 ## CONEXIONES DEL PROYECTO: 	
 
 ![01](Imagenes/Imagen10.png)
+
+
+# Video promocional
+
+[![video](https://youtu.be/zBO5wv_iBjw)

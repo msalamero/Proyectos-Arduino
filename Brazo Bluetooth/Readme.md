@@ -3,8 +3,8 @@
 
 
 ## INTEGRANTES:
-#### Cassina, Pablo
-#### Jamarillo, Juan
+### Cassina, Pablo
+### Jamarillo, Juan
 ### Molina, Gastón
 ### Molina, Tomás
 

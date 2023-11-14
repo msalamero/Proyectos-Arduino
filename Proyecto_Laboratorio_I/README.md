@@ -1,5 +1,6 @@
 # Proyecto Laboratorio I
 Proyecto final de la materia Laboratorio I
+Metegol con autos a control mediante Bluetooth.
 
 # Integrantes
 * Nores Sonzini, Tristán Agustín

@@ -1,6 +1,5 @@
-# Proyecto Laboratorio I
-Proyecto final de la materia Laboratorio I
-Metegol con autos a control mediante Bluetooth.
+# Metegol con autos a control mediante Bluetooth
+Proyecto final de la materia Laboratorio I.
 
 # Integrantes
 * Nores Sonzini, Tristán Agustín
@@ -18,21 +17,21 @@ tiempo estipulado, será el ganador del juego.
 
 # Componentes
 * Componentes de los autos (cada uno):
-** Arduino UNO.
-** Shield driver de motores L293D.
-** Modulo Bluetooth HC-06 (para comunicarse mediante Bluetooth con el Arduino).
-** Batería de 9 voltios.
-** 2 motores DC.
-** Leds y resistencias variadas.
+  * Arduino UNO.
+  * Shield driver de motores L293D.
+  * Modulo Bluetooth HC-06 (para comunicarse mediante Bluetooth con el Arduino).
+  * Batería de 9 voltios.
+  * 2 motores DC.
+  * Leds y resistencias variadas.
 * Componentes de los arcos (cada uno):
-** 1 display de 7 segmentos (para mostrar la cantidad de goles).
-** 2 pulsadores (uno para reiniciar el contador y otro para resetear el Latch SR).
-** Sensor de proximidad (para detectar la pelota cuando entra al arco).
-** Contador (para contar los goles).
-** Latch SR (para detectar una única vez la pelota que entra al arco, que luego se puede resetear con uno de los pulsadores mencionados anteriormente).
-** Decodificador BCD a 7 segmentos.
-** Resistencias variadas.
-** Batería de 9 voltios.
+  * 1 display de 7 segmentos (para mostrar la cantidad de goles).
+  * 2 pulsadores (uno para reiniciar el contador y otro para resetear el Latch SR).
+  * Sensor de proximidad (para detectar la pelota cuando entra al arco).
+  * Contador (para contar los goles).
+  * Latch SR (para detectar una única vez la pelota que entra al arco, que luego se puede resetear con uno de los pulsadores mencionados anteriormente).
+  * Decodificador BCD a 7 segmentos.
+  * Resistencias variadas.
+  * Batería de 9 voltios.
 
 
 # Contenidos
